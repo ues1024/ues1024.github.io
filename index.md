@@ -38,3 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ```markdown
 hello world
 ```
+[百度](https://www.baidu.com)
